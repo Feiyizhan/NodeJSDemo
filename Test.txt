@@ -1,12 +1,4 @@
 Test1
-<<<<<<< HEAD
 Test2
 Test3
-=======
-<<<<<<< HEAD
-=======
-Test2
-Test3
->>>>>>> 6a5b4b2662254fd22ee5186f0dbbdffc796d23ab
->>>>>>> master
 Test4 
